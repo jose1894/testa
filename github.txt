@@ -7,15 +7,12 @@ El error es el siguiente:
 
 En el entorno de pruebas la SUNAT me acepta la factura, pero en PRODUCCION no.
 
-<<<<<<< HEAD
 
 asdasdasd
 
 
 
 asdasdacsa dsc
-=======
 1111111111111111111111111111111111111111
 
 2222222222222222222222222222222222222222
->>>>>>> nueva
