@@ -1,0 +1,8 @@
+Buenas tardes,
+
+Espero conseguir ayuda, si alguien me pudiera orientar a saber por que mis documentos no son aceptados por la SUNAT en modo de PRODUCCION. 
+
+El error es el siguiente:
+" 3319 - La suma de las cuotas debe ser igual al Monto neto pendiente de pago. - La suma de las cuotas debe ser igual al Monto neto pendiente de pago. "
+
+En el entorno de pruebas la SUNAT me acepta la factura, pero en PRODUCCION no.
